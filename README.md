@@ -3,9 +3,10 @@
 ## Description:
 
 "Users-List" - Single Page Application on React.js.
-User data is loaded using the Axios library, from the resource: https://reqres.in
-Deploy the application via the link: [USERS-LIST](https://users-listt.netlify.app)
 Icons included from the library: React-icons.
+User data is loaded using the Axios library, from the resource: https://reqres.in
+Deployed from the link: [USERS-LIST](https://users-listt.netlify.app)
+
 
 ## Run:
 1. Save or clone the repository on your PC.
