@@ -5,7 +5,7 @@
 "Users-List" - Single Page Application on React.js.
 Icons included from the library: React-icons.
 Users data is loaded using the Axios library, from the resource: https://reqres.in
-Deployed from the link: [USERS-LIST](https://users-listt.netlify.app)
+. Deployed from the link: [USERS-LIST](https://users-listt.netlify.app) .
 
 
 ## Run:
@@ -40,7 +40,7 @@ HTML, CSS, JavaScript, SPA, React.js, Axios, git.
 "Список Пользователей" - Одностраничное приложение на React.js.
 Иконки подключены из библиотеки: React-icons.
 Данные пользователей подгружаются с помощью библиотеки Axios, с ресурса: https://reqres.in
-Задеплоено по ссылке: [Список Пользователей](https://users-listt.netlify.app)
+. Задеплоено по ссылке: [Список Пользователей](https://users-listt.netlify.app) .
 
 
 ## Запуск: 
